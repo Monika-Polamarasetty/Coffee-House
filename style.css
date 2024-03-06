@@ -239,6 +239,7 @@ section{
 
 .home .content{
     max-width: 60rem;
+    position: absolute
 }
 
 .home .content h3{
