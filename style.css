@@ -224,7 +224,6 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("../Images/Bg.jpeg");
     position: relative;
     
 }
